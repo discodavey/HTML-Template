@@ -2,14 +2,14 @@
 Simple HTML Template to start a page off 
 
 
-#Additional
+# Additional
 You will need to install Node, Gulp and the following:
 
-Gulp Setup
+### Gulp Setup
 
-npm init
-npm install --global gulp-cli
-npm install --save-dev gulp // In the folder you are working in
+- npm init
+- npm install --global gulp-cli
+- npm install --save-dev gulp // In the folder you are working in
 
 https://www.npmjs.com/package/gulp-ruby-sass
 npm install --save-dev gulp-ruby-sass
