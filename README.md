@@ -12,7 +12,7 @@ You will need to install Node, Gulp and the following:
 - npm install --save-dev gulp // In the folder you are working in
 
 https://www.npmjs.com/package/gulp-ruby-sass
-npm install --save-dev gulp-ruby-sass
+- npm install --save-dev gulp-ruby-sass
 
 https://www.npmjs.com/package/gulp-uglify
-npm install --save-dev gulp-uglify
+- npm install --save-dev gulp-uglify
