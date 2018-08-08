@@ -1,0 +1,27 @@
+{
+  "name": "html-template",
+  "version": "1.0.0",
+  "description": "Simple HTML Template to start a page off",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discodavey/HTML-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discodavey/HTML-Template/issues"
+  },
+  "homepage": "https://github.com/discodavey/HTML-Template#readme",
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^3.0.0"
+  }
+}
