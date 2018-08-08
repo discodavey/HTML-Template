@@ -2,5 +2,16 @@
 	margin: 0 auto;
 	width: 100%;
 	max-width: 1200px;
-	border: 1px solid black;
+}
+
+header,nav,main,aside,footer {
+	padding: 10px;
+}
+
+nav {
+	background: #efefef;
+}
+
+aside {
+	background: #ddd;
 }
